@@ -92,12 +92,47 @@ def get_speaker_mapping(sections):
     return speaker_mapping
 
 
-def generate_html(sections, speaker_mapping, output_path):
+def extract_episode_number(filename):
+    """
+    Extract the episode number from a filename.
+    
+    Tries patterns like:
+    - transcript_ep1.html -> 1
+    - transcript_episode1.txt -> 1
+    - episode2_transcript.txt -> 2
+    
+    Returns:
+        int or None: The episode number if found, None otherwise
+    """
+    basename = os.path.basename(filename)
+    
+    # Try various patterns
+    patterns = [
+        r'ep(\d+)',           # ep1, ep2, etc.
+        r'episode(\d+)',      # episode1, episode2, etc.
+        r'episode_(\d+)',     # episode_1, episode_2, etc.
+    ]
+    
+    for pattern in patterns:
+        match = re.search(pattern, basename, re.IGNORECASE)
+        if match:
+            return int(match.group(1))
+    
+    return None
+
+
+def generate_html(sections, speaker_mapping, output_path, episode_num=None):
     """
     Generate the HTML file from parsed sections.
     """
     # Get the CSS filename (in the same directory as output)
     css_file = 'transcript_styles.css'
+    
+    # Build the episode title
+    if episode_num is not None:
+        episode_title = f"Episode {episode_num} Transcript"
+    else:
+        episode_title = "Transcript"
     
     # Start building HTML
     html_parts = [
@@ -106,12 +141,12 @@ def generate_html(sections, speaker_mapping, output_path):
         '<head>',
         '    <meta charset="UTF-8">',
         '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
-        '    <title>Carbon and Cardboard - Episode 1 Transcript</title>',
+        f'    <title>Carbon and Cardboard - {episode_title}</title>',
         f'    <link rel="stylesheet" href="{css_file}">',
         '</head>',
         '<body>',
         '    <div class="transcript-container">',
-        '        <h1>Carbon and Cardboard - Episode 1 Transcript</h1>',
+        f'        <h1>Carbon and Cardboard - {episode_title}</h1>',
     ]
     
     # Add each speaker section
@@ -178,8 +213,13 @@ def main():
     for speaker, class_num in speaker_mapping.items():
         print(f"  - {speaker} (color theme {class_num})")
     
+    # Try to extract episode number from filenames
+    episode_num = extract_episode_number(output_file) or extract_episode_number(input_file)
+    if episode_num:
+        print(f"Detected episode number: {episode_num}")
+    
     # Generate HTML
-    generate_html(sections, speaker_mapping, output_file)
+    generate_html(sections, speaker_mapping, output_file, episode_num)
     print(f"\nHTML file generated: {output_file}")
     print(f"Make sure '{os.path.join(os.path.dirname(output_file) or '.', 'transcript_styles.css')}' is in the same directory!")
 

@@ -1,0 +1,758 @@
+Scot Free Kennedy (00:19)
+Hello and welcome to carbon and cardboard We're here with a special guest today, Matt Leacock, who is the designer of a wonderful game that you've probably heard us talking about before. We've been playing it an awful lot. It's very much on theme for this podcast. It's called Daybreak. We'll talk a lot more about it when we when we get into it.
+
+Laura (00:29)
+Okay. Okay.
+
+Scot Free Kennedy (00:37)
+So Matt, if you want to introduce yourself and then we'll go around and do that and then jump right in.
+
+Matt Leacock (00:42)
+Sure, yeah, so I'm Matt Leacock. I'm a full-time game designer specialized in board games ⁓ for the international market, ⁓ best known for cooperative games. ⁓ Had a big breakthrough with the game Pandemic. ⁓ yeah, as you mentioned, ⁓ Daybreak came out recently. So I've been very busy with that.
+
+Laura (01:01)
+okay. My name is Laura Finnegan. and am interested in several topics in climate, one of which is the overlap of teaching climate concepts. My particular interest was more around climate and video games and how we can not only teach climate concepts but perhaps innovate new solutions through an interaction.
+
+interactive interface. So yeah, that's my perspective.
+
+Nathaniel Granor (01:22)
+Hi, I'm Nathaniel Grainer. I am located in Brooklyn, New York. My background spans tech as a product manager, program manager, ⁓ and then education, where I spent six years helping to build computer science programs for training both teachers and students in programming computer science and similarly have been pivoting into climate. One of my main theses, theses, theses, that, ⁓ thesai, one of my main thesai is that, ⁓ just sort of public understanding even among people who care.
+
+Scot Free Kennedy (01:44)
+He's sorry. ⁓
+
+Nathaniel Granor (01:52)
+about climate change is quite low. And so I'm also very interested in how can the general public get a better sort of mental schema, mental model, and just innate sense of what climate change is all about, how it is a complicated systems problem, and how the different elements of it connect to each other, which is another reason why I've been really fascinated by this game Daybreak.
+
+Scot Free Kennedy (02:13)
+Great, I'm Scott Kennedy. I worked in applied math and data science stuff for a long time. I have now been working more in geospatial wildfires resilience, which has sort of led me into the broader climate and environment world.
+
+As we started this climate project, we're all part of the climate-based fellowship,
+
+We all love board games, but we also felt that they were a really wonderful medium for communicating some of those ideas. That leads us directly to talking about Daybreak.
+
+we ended up playing a ton of Daybreak because it is such a good game and satisfies that need to communicate ideas so well. Daybreak is a cooperative game. You work to solve the climate crisis. You work with a lot of concepts that we've been talking about in the climate curriculum.
+
+I'm just absolutely delighted to be able to chat about it with you all here today. ⁓
+
+Matt, if you have any thoughts about the story of Daybreak and how it came to be and what it's meant to you, that might be a really nice jumping off point.
+
+Matt Leacock (03:14)
+Yeah, I mean, I was going through a lot of ⁓ angst about the climate crisis, I guess you could say. This is back in, I think, 2020, this is during lockdown. ⁓ I think a lot of us were kind of evaluating our place in the world. Things were really changing. And I had been called out by a ⁓ climate scientist who said, hey, you really got to make a version of pandemic based on the climate crisis. And he laid out this giant screed about why it was really important.
+
+offered some ideas for how Pandemic, this other board game I had, could be modified to kind of teach these climate concepts. And I thought ⁓ it made an impact on me, but I didn't know how to do it. And it didn't seem like the right kind of game to do that sort of thing. Pandemic is this, I don't know, sort of like the cinematic game where you run around the world as an individual solving a pandemic. ⁓ Makes for a good game, but it doesn't really tell the right story. So. ⁓
+
+Yeah, I kind of sat with that for a while. then around 2020, ⁓ really wanted to think about maybe trying to make games that had an impact and also was very concerned about the climate crisis. So I started just doing some research to see if I could do a game about that. ⁓ yeah, that was just a real exercise in existential dread at first. You really climb into a pit of despair when you first read the first chapter of a lot of climate books. But I did continue reading and
+
+found some sources that looked at things more holistically. One of them was called 100 % Solution by Solomon Goldstein-Rose. And I don't think it's any accident that he's also a game player, likes to play board games. And it was like looking at the problem a bit more holistically. And I started to see a bigger picture to it. I was doing this alongside Matteo Menopace, the co-designer of Daybreak. We had met online on Twitter. He had seen
+
+Something I had tweeted out about the pandemic or I had seen something he had tweeted. Anyway, we both came to understand that we're both interested in designing games about climate and kind of hit it off and started to share some ideas. Eventually we saw that we had very similar goals and decided to work on a game together. So to make a of story short, we both did a lot of research there and climbed out of our value to spare and decided that we wanted to create a game about communicating.
+
+⁓ that there are solutions to this and do it in kind of a holistic way. And ⁓ as we learn more and more, ⁓ I think we kind of got a handle on things a little bit more. We had a framework for how to think about what was going on and saw an opportunity to kind of share that framework in the form of a game. So ⁓ that kind of like boils three years development down into just a couple of sentences, but that was sort of the where it came from. It came from ⁓ a provocation from a climate scientist.
+
+And then we went into a deep level of research, went through this journey of knowledge, and then brought in a lot of advisors to help us. And that was really key to better understanding what was going on. We couldn't do it on our own. And then, really set out into the world with the goal of trying to make a game that would be fun first and then educational second. So that's sort of the origin story.
+
+Nathaniel Granor (06:35)
+Well, that's a great segue into the question I was sort of burning to ask when I was thinking about it. ⁓ One of the first things we noticed as we started playing this game in the context of how do we teach climate concepts and whatnot. ⁓
+
+was that Daybreak, know, games can be themed as you understand, as I know, you know, but sometimes a theme for a game is really just a surface level, you know, this game is a pretty abstract game, then we've just slapped some beautiful imagery and the story on top of it. Other games are not themed about a certain thing, but their mechanics sort of resemble a certain thing from your world. Daybreak is sort of a rare bird and that's a pun because I think another great example is Wingspan. But is there sort of the rare bird where you've done both?
+
+have this beautiful surface level theming around climate, around solutions, around imagining a better tomorrow, and the actual gameplay mechanics ⁓ are deeply related to climate. know, some of the ideas that Scott mentioned, like exponential growth, prioritization, short term versus long term, etc, etc. ⁓
+
+And then you've actually got content in the game that's deeply researched for those who've never seen it. The website that is a companion to Daybreak goes deep on every single card in the game describing the solutions and how they work. So I'm curious how you sort of mentioned that you wanted the game to be fun first and also educational second. How do you think about the responsibility as a game designer to be accurate about the theme? People are going to walk away with understandings about climate. How do you balance playability, fun, and real ideas?
+
+Matt Leacock (08:08)
+Yeah, and that comes back to ⁓ my original rejection of that suggestion of taking Pandemic, this other game, sort of like ⁓ applying a theme onto it in order to kind of communicate ⁓ climate concepts. I could have done that, but ⁓ I felt it was much more important to develop a game that actually taught some core concepts, so that by playing it, you would actually better understand what was going on in the world.
+
+So when I did Pandemic, my goal was to create a fun game. This was first game ever got published. It wasn't to try to communicate what a pandemic was actually like. Here I saw an opportunity to actually try to educate people. And again, not make an educational game, but try to make a game where it would be fun first, and then by playing it, you would kind of internalize a model implicitly. We wouldn't preach something to you. would buy, but just by playing it, you would understand some of the dynamics involved.
+
+And so that's where all the research came in. And so we started by reading books, and then we started reaching out to different authors of those books and ⁓ contacted the Red ⁓ Crescent Climate Center and got them on board. There's some really incredible people who work on serious games in that group who became advisors and started playing games and offered
+
+just tremendous amounts of feedback and help shape the final experience. And then some of the other authors that we reached out to ⁓ were interested in playtesting. So they were playtesting it. And then not only playtesting, but they offered, eventually, when we had the idea to put QR codes on every single card in the game to author a lot of the content. So it was just this magical journey where initially we were just pulling down ⁓ some of these books. And ⁓
+
+they were being incorporated into the game itself. it was just really wonderful ⁓ to have such great partners who were not only willing to advise, but also to author content that would show up in the game. So we took that very seriously. it was a great fun to try to figure out how do we model these different dynamic systems that exist in the real world, create kind of a toy model that people can understand themselves, and then by playing it, kind of internalize it and understand what was going on.
+
+Laura (10:30)
+I am curious how the game evolved because it seemed very layered and very complex in a stimulating way. a beautifully structured game that seems to have quite a bit of thought and, ⁓ like I said, complexity to it. So I'm curious how it evolved and what your initial
+
+thought was when you were creating it and how those mechanics sort of layered on top of each other.
+
+Matt Leacock (10:49)
+Yeah, it was real journey. mean, early games ⁓ would take like four hours to play. They were complicated. And I had one tester, one testing group in Chicago actually proved to me, know, so I do a lot of remote testing. put together a, Mateo as well, we'd put together prototypes and then ship them to people. And then they would unpack them and learn them on camera and then play them. And we'd learn. ⁓ One of our play testers, John actually.
+
+Scot Free Kennedy (10:55)
+You ⁓
+
+Matt Leacock (11:16)
+to prove that the game was too hard would basically just select whatever cards he wanted, the best things he could actually grab from the deck and prove that it was impossible to win the game. Early versions of the game were not only long, but were impossible to win. It was pretty rough. well, no, but definitely not what we wanted to teach people that it was futile. matter what they did, they were going to... You can choose the best solutions. You're doomed from the start.
+
+Scot Free Kennedy (11:28)
+It's accurate, it's accurate. Give up. you
+
+Matt Leacock (11:46)
+⁓
+
+Yeah, so that was really painful to watch. That's why blind testing is so motivating. You watch this and you see the pain people are in, you're like, we got to make this better. ⁓ Other things, early versions of the game were like this sort of technocratic thing. It was like a war on the carbon atom is what our advisor said from the Red Cross, Red Climate Center. They're like, you you really need to focus on people. know, people are at the center of the crisis. It's not just this.
+
+It's not just a problem that can be solved with technology because early versions are just about mitigation and not adaptation. oh, and also early versions had tons of currencies. we had players could spend either financial capital or political power in order to roll out different solutions. And the solutions were kind of like one-offs. It was a bit like a board game called Terraforming Mars. I don't know if you're familiar with that game, but
+
+And that one, you've got different currencies. You spend them, you put a card into play, and that's it. It's in play. And then you just keep going. And by the end of the game, we'd have, I don't know, just dozens of cards in play that were just sitting there dead on your table. And the players had to move all these bits of paper around little cubes and disks that represented political power and financial capital. So I don't know, about halfway through development, we decided to just cut all the currency out of the game.
+
+Laura (13:12)
+Mm hmm. Okay.
+
+Matt Leacock (13:13)
+and use the cards as currency and that introduced wonderful trade-offs. You know, you had to decide if you want to roll out a project for its own sake or use that sort of those resources in a different way in order to power a different one. So, and it also just reduced the play time considerably because you didn't have to do all that math and all that min-maxing around these invented
+
+values we had for things. So it was just a lot of iteration, a lot of consulting with experts. And then bringing in
+
+the idea of resilience and ⁓ adaptation was a really big milestone as well. Suddenly people were at the center and you lost too many people, became, went into crisis as opposed to just the temperature reaching a certain point. So yeah, it could go on and on. It was a very long crisis.
+
+Scot Free Kennedy (13:57)
+Right. Well, I love that.
+
+Laura (14:01)
+Yeah.
+
+Scot Free Kennedy (14:02)
+from the climate side, you talking about introducing adaptation and people is really interesting. And then from just a game design side, that idea, we I think have probably all played some terraforming Mars and have our whole other conversation there. But I think that decision to to remove the currencies is a really interesting one. I have a lot of
+
+Game design questions about mechanics but I actually want to follow up on Laura and in the handles question a little bit with this notion of veracity ⁓ I was really enjoying playing it with my family, my wife works in water and civil engineering, so she had a bunch of different perspectives.
+
+her question was, on the summary cards, it's got the distribution of the various tags, the percentage of the deck that make up the different tags, And she was trying to figure out if that distribution of tags
+
+represented a distribution from the real world, Because it is surprisingly close, I was like, no, that's just based on game mechanics. It's just to make the game parts work better.
+
+Matt Leacock (15:01)
+you
+
+Scot Free Kennedy (15:03)
+So A, sort of Nathaniel's question, how much is that distribution of tags actually driven by a notion of what they are in the real world And B, how on earth do you test and tune something like that?
+
+because each card has this additional action that you could take, it seems like the game balance would be very non-linear. You don't just increase a little bit if this card then has the synergy with other cards. So it seems like it'd be very difficult if that makes sense.
+
+Matt Leacock (15:30)
+Yeah,
+
+it does. It makes a lot of sense. It took a tremendous amount of tuning. ⁓ I think in general, we didn't really want to have necessarily the values, like the specific number in mind. ⁓ It wasn't so much like, we want a carbon cube to represent this many gigatons of carbon, right? ⁓ Or this card represent this many dollars of ⁓ capital. But we did want the proportions to be roughly accurate.
+
+we needed to cover lots of different aspects of ⁓ the solutions, right? So there's technologies in there, there's policies in there. We needed to represent green energy, for example. So, okay, we need a certain proportion of cards that are about ⁓ rolling out clean energy. So some of that's going to be solar, some of that's going to be wind, some of that's going be nuclear, maybe we've got some geothermal in there. ⁓ So we wanted those proportions to be roughly appropriate. ⁓
+
+And we couldn't get them exact, right? So there's certain minimums. So the proportions of, say, solar and wind versus geothermal are probably going to be pretty extreme. But we still need a single card in there to talk about how geothermal might be part of the solution. Does that make sense? in general, we're looking at ⁓ we broke the solutions down into different proportions. And within those categories, they had different proportions as well. And we just
+
+tried to get those proportions about right. So the card ⁓ balance was more of a ⁓ kind of an art than a science, and it was a lot of tuning over many, many iterations. Others were a little bit more data-driven. So if you look at the amount of emissions that any of the different world powers emit, we got those values from our world and data. And again, we're trying to represent like this token represents this
+
+this specific number, but we could say, okay, well, China's responsible for this proportion of the emissions within China. We can break down that emissions, ⁓ those categories in these proportions, and that equals this many tokens. So it was all about just kind of like looking at ⁓ them versus each other, as opposed to looking at them versus a specific hard number that would change over time. I don't know if that makes any sense at all, but it was really just an exercise in
+
+Nathaniel Granor (17:56)
+Can I, can I?
+
+Matt Leacock (17:59)
+trying to inform a best guess based on real world data and then tuning from there based on play testing.
+
+Nathaniel Granor (18:04)
+As a follow up, I'm sure you still keep your nose to the ground and ear to the ground. gosh, these metaphors. ⁓ I'm sure you still pay attention to climate news. ⁓ know, in that sounds like it's been five-ish years since you first started thinking about maybe designing a climate game. ⁓
+
+Is there anything that's changed in the landscape around climate in the real world that you think isn't reflected in the ideas and parameters you put in the game? know, one example that could come to mind is around renewables, especially solar and battery storage, which just keeps surpassing everyone's wildest expectations for how quickly they can be deployed and how big they can grow. So I'm just curious if you've seen anything where you're like, oh yeah, that's not the proportions that we assumed when we built this model.
+
+Matt Leacock (18:48)
+⁓ I don't know. I can't think of anything that's really sticking out. mean, I think when we were playing it, we introduced that whole tag model where things actually grew non-linearly. As you put in more solar cards, it can really take off. Like you can spend one card and get like 14 clean energy out of it. And I was a little concerned that that would be too dramatic. if anything, ⁓ it feels like that's actually, ⁓ I mean, it's been amazing how solar has been rolling out. ⁓
+
+We did put in, I guess you'd call it like throttling, Solar can't just take off exponentially without having the grid support. So we have these grid tags that need to be rolled out that you're kind of throttled by. So it's been fun to see that actually, I don't know if that's life imitating art or what.
+
+Nathaniel Granor (19:41)
+Yeah,
+
+no, you almost, yeah, it's almost like you predicted. You put in place these mechanics that were like, well, this should be able to stack and grow, right? And, ugh.
+
+Matt Leacock (19:46)
+I mean theoretically that was supposed to work and it's been really cool to see it actually happen.
+
+Scot Free Kennedy (19:48)
+Yeah.
+
+Matt Leacock (19:50)
+⁓ yeah, but then on the other hand, you've got things like, well, you know, we've got certain administrations in power now and it's sort of like the US players not taking their turn at all, right? Or they're voluntarily discarding their cards or the democracy erosion card has actually, you know, been played and we're trying to deal with that.
+
+Nathaniel Granor (20:01)
+That happened the other...
+
+Scot Free Kennedy (20:01)
+my gosh. Yeah.
+
+I think
+
+Nathaniel and I are about to share the exact same story. Go ahead.
+
+Matt Leacock (20:10)
+I'm
+
+Nathaniel Granor (20:10)
+Yeah, the last
+
+time we played, someone had to leave early and we weren't sure. We were playing online on board game arena and we weren't sure what would happen when someone just completely left the table as their way to pull them out of the game. The answer is no. And so when, when, know, when we were all finished our local stage, we were all just sitting there and it's like, well, you know, no way to move on, I guess. We're just stuck here forever. ⁓
+
+Scot Free Kennedy (20:31)
+Right, because
+
+she was playing the United States. So at that point in time with current events, it just felt totally perfect that we lost the game and it ended because the United States had literally just decided not to go to the cop thing and to withdraw from all these treaties. were like, okay, yeah, dead on, dead on. I wanted to...
+
+Matt Leacock (20:34)
+I see.
+
+⁓ right, right, right. I have heard some
+
+stories, actually from people online, saying that they played the game four player with the United States in and just basically passed as their turn every turn to see if they could win and actually did win one time. So yeah.
+
+Scot Free Kennedy (20:56)
+interesting. that's interesting,
+
+following up on that notion of mechanics, My son said, I really liked the geoengineering cards.
+
+he liked those big tech solutions and he said they seemed like they're really powerful, but it was really hard to get them to actually work and engage in the game. we had chatted amongst ourselves whether that was an opinion about climate technologies and things about what worked well and what didn't, or ⁓ more likely, we just don't know how to play the game well enough yet to fully take advantage of those game mechanics.
+
+Matt Leacock (21:33)
+How much time you got? Yeah, those were, I mean, we would spend like a half an hour, an hour meeting just on one card with experts around geoengineering. And with geoengineering, you got to be careful about like, what are we talking about? There was a lot of ⁓ controversy about whether like, like direct air capture should be classified as geoengineering and, you know, isn't at all geoengineering. So ⁓ what
+
+Scot Free Kennedy (21:35)
+HAHAHAHA
+
+Matt Leacock (21:58)
+I can talk about our goals. So our goals were basically to put the stuff in the game so you could play with it and not just say these are bad, they can't be part of the solution. It was more like, okay, we're going to put these different solutions in the game. You can play them and kind of see what their limitations are. So you can see that if you do stratospheric sulfur, for example, late in the game, it may help drop the temperature temporarily in order to protect your communities so you don't get too many in crisis when you're dealing with the late stages.
+
+If you try to base your whole game on that and roll that out early, you're going to lose, right? I mean, that's just a bad idea. So by playing the game, you come to understand that, yeah, we're not going to roll out directory capture on turn one. That's stupid because it's just going to temporarily drop the temperature. It's very expensive. And it's much easier to invest in resilience and mitigation, certainly. So that's one example for like, yeah, there is a place for it. Let's say you do get a lot of ⁓
+
+geoengineering techs. You can roll out a really effective strategy where you can, for example, shoot lots of stratospheric sulfur into the atmosphere and you can do it at lower risk because you've invested a lot of cards in there and you can drop that temperature. It's not a solution though. It's not going to win the game. It's just going to protect your communities for a short period of time when you're doing some other things. So that was the kind of messaging that we wanted to show. Like, hey, it's circumstantial, it's risky, but in some cases it actually may pay off.
+
+Scot Free Kennedy (23:17)
+Yeah. ⁓
+
+I love
+
+that ⁓ it was really fun sitting there explaining to my kids like, yeah, we're gonna go dump all this stuff in the ocean because it makes this chemical thing. They're like, what? It's a really great source of that. But also taking that back to the mechanics level, the thing that I noticed was some of those technologies, you mentioned getting enough cards to make the geotech work. I noticed it with nuclear stuff, which almost felt like there was a little flavor of like fusion where
+
+Matt Leacock (23:33)
+Yeah, Throw a lot of iron in the water. What could go wrong? Yeah, what could go wrong?
+
+Scot Free Kennedy (23:52)
+there's this incredible potential, but there's a fair amount of chance in whether you can get the complex of cards you need to make something happen. Some of them, like Solar, felt like this sort incremental improvement where you're gonna put the resources into this and you know you'll get this small increment of improvement. Other ones felt like sort of a gamble And I love that, because it felt very real, like yeah.
+
+Cold fusion would be incredible. Should we just drop everything and hope that we get cold fusion? Well, we don't know that we're gonna get the right cards in the real world to make this actually happen, You also touched on a game mechanic that Nathaniel has talked a lot about that I really enjoyed too, which was this notion of the right time in the game for different cards.
+
+In the climate world, there's all this emphasis on like, doing something that's not the best, smartest, most amazing thing right now is worth a lot more than doing something amazing in 10 years But you pointed out explicitly beyond just that
+
+time value there's some things that just make more sense in the late stage of the game because you're be facing different problems you mentioned the temporary thing which is something we had noticed early on been like this card isn't worth very much because it's just temporary but at the end of the game I can see now that that would be really valuable to have those even if it's just a one-shot thing if that gets you through that turn that might be all you need ⁓
+
+that time value of action mechanic and then the stage of the game mechanic really struck me.
+
+Matt Leacock (25:12)
+Yeah, that was when
+
+the time value of action was, or time value of money, that whole notion that ⁓ if you reduce even one cube in the first round, it's tremendously important, right? If you don't do one, just one, you're going to get two temperature bands, and it's going to make things far, far worse. And when you're removing ⁓ one carbon cube in round one, you're not only removing it from round one, you're removing it from round two, round three, round four, round five, right?
+
+you can really see just by playing it ⁓ how that works and how that pays off. So if nothing else, you can play the game and totally ignore what the cards are and spend two just to remove two dirty energy and two just to roll out two clean energy. And you're already doing pretty well by doing that, even if you ignore all the other solutions. So yeah, that is a pretty important concept that we wanted to get across.
+
+Scot Free Kennedy (26:04)
+think you nailed it. feels like just talking about it with my family, could be talking about our climate classes or talking about how to play the game.
+
+Nathaniel Granor (26:12)
+I was hoping to go back to something Matt said a little while ago and maybe zoom out our perspective for a moment. ⁓ When you were describing why you thought pandemic wasn't the right model for a game about climate, you mentioned that you sort of summarized that, pandemic is of this cinematic lens. You are one specific...
+
+person one specific role gallivanting around the world trying to do what you do best to help prevent or end a pandemic. What is the perspective in this game? How would you characterize who you're playing as each each player is assigned a country or group of countries? You know, we said a minute ago, the US has walked away. It's not exactly true, though, because as a player in Daybreak, the kinds of decisions you're making aren't, you know, you're not a president, you're not a legislator, you're not right, who, who am I representing when I play Daybreak?
+
+Scot Free Kennedy (26:40)
+Mmm.
+
+Matt Leacock (26:58)
+Yeah, mean, Matteo and I talked about this really early on that our goals are really to kind of model collective action, not individual action. You know, we've been kind of sold a false narrative when it came to like personal carbon footprint and so on. So we really did want to pull the lens back. And so you're playing, I guess, a collective, right? I don't know. It's a we call them world powers. So ⁓ China may be a little bit easier to understand. You know, you've got this autocratic government that's basically just saying what happens. ⁓ It's a little bit squishier when it comes to Europe or the United States, but it's that group of people.
+
+their governments and also the people at large. So some of the cards you may be rolling out may be social movements that, yeah, sure, the government might help ⁓ kindle, but it's really down to the people and what their behaviors are as a collective.
+
+Nathaniel Granor (27:43)
+And to support those differences across the different countries or collections of countries, I've noticed the starting set of projects that each country starts with is a little bit, they're similar, but they're a little bit different in ways that because it's early in the game really, I think does tend to sort of push each.
+
+perspective each country each collective into a slightly different direction Doesn't it doesn't guarantee that say China is gonna produce a lot of renewable energy, but it might right like there's there's a lot of nuance that I noticed in how the early game set up another sort of related Issue as we were talking about that idea of the US walking away, you know daybreak is Interesting from a moral and ethical perspective like those considerations are not baked into the gameplay. There is no stage of the game
+
+where you have to calculate the moral weight of your actions. There are these communities in crisis, and if you have too many of them, you lose. So guess that's a moral perspective. But I've found in many of the games I'm playing that we're weighing what to invest in and what not to invest in. And then when the temperature level goes up and a crisis hits, we have to choose which projects we're getting rid of and which country is going to bear the brunt of things. We have some resources we can distribute around the world, and you have to decide, would I rather keep this for my...
+
+own projects or not. And I think that that fits in with this collective action. You are playing as your own region. There is a desire, at least for me to do well with what I'm in control of. But there is also an obvious sense in which if we don't all work together somehow, this just isn't going to work out. So I'm curious, you know, maybe that that sort of ethical moral, is that something you talked about? Is that something you've seen emerge as you've watched people play?
+
+Matt Leacock (29:21)
+⁓ I mean, there are certain like, the framing is really important. We wanted to make sure that ⁓ everyone lost, even if like, if one player had too many communities in crisis, that was a loss for everyone. So that was sort of like a way of framing that, ⁓ you know, people had people's lives had equal value and that, you know, we should be caring about everyone. Yeah, I'm not sure how else to answer that question. I mean, we just try to try to...
+
+try to make the lens so that we gave players agency to make decisions based on the cards that were in front of them and try to put people at the center of ⁓ what you're trying to solve and then just see what people did from there, if that makes sense.
+
+Laura (30:04)
+I think that's one thing that you absolutely nailed was I was actually going to follow up with the sense of agency that each player had. I loved the free form where each player could act at the same time to solve the problem and you could communicate, hey, I'm doing this, I'm doing this, I'm doing this. It clearly and really brought the cooperation aspect home. It was very emotionally gratifying to see when your trade-off succeeded and then obviously very educational when they did not. So I think that was also very, that was very well done. I am curious what the, you were overall.
+
+aiming for people to take away. think there was a clear embedded sense of systems thinking that everyone took away from it. The cooperation, how these different things interact. I am curious what you were just like giving, when you are the world power, obviously you can't actually be world powers. So what are you hoping that people will practically take away from the game?
+
+Matt Leacock (30:49)
+Bye.
+
+Yeah, so I think a lot of different layers to that. mean, first and foremost, ⁓ we'd hope that you'd play the game and enjoy it, right? ⁓ And then you could be exposed to ⁓ the topic and have, ⁓ I guess, it gives an excuse to have a conversation about the climate, if nothing else. So if you did nothing else, you sat down and you played a game, you had a good time, and you ⁓ talked about and better came to understand some of the topics.
+
+you're using all the language, right? You know what mitigation and adaptation and resilience and all these kinds of concepts are. Then you can more internal, go a little bit deeper and you can learn the dynamics of it, learn a little bit more about the carbon cycle. You understand the knock-on effects of electrification. You understand that resilience is important and why. So there's all that deeper learning just by playing it, all that systems learning. We wanted the framing to kind of show that this is a problem that's bigger than
+
+just individuals, that it's something that requires a lot of collective action at a much higher level, that it's not going to be enough just to recycle, for example, ⁓ and really shift that lens ⁓ quite a bit. ⁓ Wanted to show that ⁓ there's no one specific solution, that it requires just tons of different solutions all working in tandem. Wanted to give people the impression that ⁓ there wasn't just one solution so that you can't just depend on
+
+getting the right hand of cards dealt to you, you need to see what you're dealt and then try to figure out what you're going to do with that. ⁓ Every game is different. You're going to have a different set of opportunities and different set of constraints, different set of dangers, and you're going to need to kind of work through that. And then I guess another one is that ⁓ you can try to play it as individuals all working on your own little board. It's close to you. It's easy to understand. It's right there. It's very salient.
+
+You have your hand of cards, you can read it because it's really close by. But there's all these other people at the table and they have problems as well. So we wanted to communicate that. Yeah, you can go it alone, but your chances of success are much higher if you're all working together and communicating and taking advantage of each other's and then like helping each other out in their weaknesses. And then I guess last you kind of go like you play that game and you see how hard it is when everybody's working together.
+
+and you see what's happening in the real world, and you can kind of see what, well, where's the gap? You know, what's not happening in the real world? What needs to happen so that we can close that gap and actually have success? And then we're hoping that that would then lead to some action, right? You might have conversations about it. You might take other actions that might help close that gap between what needs to happen and what is happening. So we're trying to operate on all those different levels.
+
+Nathaniel Granor (33:45)
+I'd love to just underscore
+
+one of the things you pointed out, especially for anyone who might be listening and hasn't yet played, though I hope will very soon play Daybreak. You talked about this idea of you can, the core gameplay mechanic in Daybreak, which I think Scott also has a question about in a little bit, is this local phase where you have a hand of cards, you have these projects in front of you, and you can make as many choices as your resources allow to...
+
+replace one of your projects with a new project and try to get some benefit from it or to take the things in your hand and use them as resources to power your existing projects and use those projects as much as they will allow. And so as you said, you have a lot of local expertise in understanding what you've been developing in front of you. You can see the cards and read them directly in front of you. But then across the table, everyone else has their own local situation. These rounds could take an hour. I mean, like you could spend
+
+a very long time if you if every single person wanted to discuss and operationalize every single part of their turn, which are all overlapping and happening at the same time. Yeah, you could just sit there and discuss every little tiny bit and you kind of need people to take personal initiative to try to optimize what they're doing for their own and everyone's benefit. ⁓ At the same time, if you only focus on your own perspective, you're losing a lot of possible interactions that could be beneficial to your own.
+
+point of view as well as the global point of view. ⁓ yeah, maybe zoom in on that particular detail a little bit, some of the ways that the different players ⁓ boards can sort of interact with each other.
+
+Matt Leacock (35:18)
+Yeah, sure. We tried to give each player... ⁓ It's asymmetrical, sorry. So China is a little different than the majority of the world, which is different than the United States, right? So, ⁓ right. Europe can be... ⁓ Has some initial starting abilities to help out with resilience. ⁓ the majority of the has got more tags on their clean energy. They can kind of leapfrog ⁓ faster and roll out clean energy quicker because they don't have as much existing infrastructure that they have to deal with.
+
+⁓ The United States has the potential to, but doesn't need to necessarily, right? We give you these tools, but you don't necessarily have to take advantage of them to pay like climate debt reparations and do R &D. And so basically try to find the right solution for another country and help them out with it. ⁓ and China has the ability to do a lot of R &D around clean energy and ⁓ to export that basically to other players. So it's just a little...
+
+difference between each of them, but it's often enough that it's just like this ⁓ catalyst so you can kind of build on it and then get a flywheel running so that you can kind of lean ⁓ more deeply into that role. ⁓ Or based on the cards that you've got, you might decide to just take a totally different strategy. So that allowed players to kind of like have a different feel and we tried to kind of model the different flavors of the different parts of the world as well by doing that.
+
+Scot Free Kennedy (36:45)
+I thought it was very successful in that it felt to me, and maybe this will change as we know the game better, but it felt very difficult. We were confusing at one point in a previous discussion the notion of the rules being difficult where I felt like there's actually a really elegant sort of simplicity there, but the game just being hard to win, which I think is intentional and good. And I felt like it was basically impossible.
+
+to win without some degree of that cooperation or at least communication, which I loved. That's what it leads me to a question I have about cooperative games in general and a specific one about this and the subject matter. I want to frame that initially with a little brief ⁓ origin story aside.
+
+⁓ Which is that I have never met you in person before Matt, but you have made my children cry
+
+And I mean that in the best possible sense. I had not actually realized that you had designed the Forbidden Island and Forbidden Desert games. And those play a central part in our family lore because we love those games. My mother got me into one of them and we played them at her house. So it's got this game that we play at Grandma's house side to it. They're just really fun games and they are hard. And with both of them, at least once, I remember my children actually being brought
+
+two tiers by the islands sinking around them or whatever. that is a very good family memory. I bring that up not to give you a hard time, but because it's something we talk about. so A, just thank you for that. That was a really fun game and a great part of their childhood. It also leads to that notion. Those are cooperative games.
+
+Matt Leacock (38:13)
+Hahaha!
+
+Scot Free Kennedy (38:24)
+They are challenging to win.
+
+in a cooperative game. You don't have that competition to drive things. So it feels like.
+
+you have to sort of use the difficulty of the overall game to drive those rules. And I've played other cooperative games. There's a very early one called Shadows Over Camelot or something that we
+
+with a friend group, we played all weekend and ended up losing. It was just depressing. And like, great, we spent our weekend and Europe fell into the dark ages anyways. Like, yeah. So A, I'm curious about striking that balance from a game design perspective, but B, with this particular topic, it feels so fraught Like you said, when you sort of started exploring this idea at first, you're just sort of overwhelmed.
+
+And it's something that we've talked a lot about at the climate-based fellowship is just how people really need to consciously keep their energy and their attitudes up in the face of what can feel sort of overwhelming.
+
+Matt Leacock (39:19)
+Yeah, and the first point, yeah, it's really important to have an appropriate challenge. You need a problem that's, ⁓ I don't know, ⁓ greedy enough or the stakes high enough to actually engage like four people for 45 to 90 minutes, right? ⁓ And keep them really thinking. So it can't be too boring, can't be too easy because it can be bored.
+
+you can be bored and it can't be too challenging, otherwise your anxiety is going to go through the roof and you're to get really frustrated and just give up. And so that's just a process of tuning for me most of the time, just putting the set in front of real world people and seeing, ⁓ you know, are they tearing their hair out or are they excited and leaning in and really getting into the problem? And so ⁓ doing a lot of playtesting with video especially is really important to me so I can see sort of what the emotional reactions are to the players with it.
+
+Yeah, I mean, I do not give people surveys. That's just worthless. It's all about seeing how they're behaving on camera most of the time to see what kind of effect it is having on people. Well, Tony, you bring that up. I played that for the forbidden island of my daughter, Anna, when she was quite young, think maybe seven or eight. And ⁓ yeah, when she was on a tile that disappeared, had no place to swim to. And she's like, what happened? I said, well, you drown. I'm sorry.
+
+Scot Free Kennedy (40:26)
+Are the children crying?
+
+Matt Leacock (40:44)
+burst into tears and I'm like, I think I got something here. This is working. ⁓ I mean, you really do need, you really want that kind of emotional reaction. But yeah, you're right. With climate, it's more fraught. So I think it's really important that at the end of the game, if you do lose, you go like, okay, I don't want people losing and going, this is hopeless. I want people losing and going, ⁓ I know what we can do next time. I want to try this. And so, I mean, most of the fun you're getting is from learning anyway.
+
+Scot Free Kennedy (40:48)
+you
+
+Yeah.
+
+Yeah
+
+Matt Leacock (41:14)
+This is a playful sandbox where you can experiment and play and learn. And the end is just sort of like your evaluation. How did you do? So if you do lose, you would just want to go back again and try some other hypothesis to see if that's going to work better.
+
+Scot Free Kennedy (41:23)
+Yeah.
+
+Nathaniel Granor (41:24)
+And I will say
+
+Without that being written anywhere in the rules that I've read, every game of this that I've played, I think I'm up to five now, just sort of spontaneously, sometimes we've had to stop for time, other times we've played to completion, losing. But every time, just a discussion, like people need to go, but it's like, well, wait, wait, wait, we gotta talk about this, like, what are we doing differently next time? Yeah, we clearly have to play this again. That's been highly successful, at least for me and the folks I've been playing with.
+
+Matt Leacock (41:36)
+you
+
+Scot Free Kennedy (41:45)
+Yeah.
+
+Matt Leacock (41:53)
+And that's great to hear, yeah.
+
+Scot Free Kennedy (41:53)
+Yeah, I was gonna say
+
+the exact same thing. We finished with the family and we were sort of like, oh, like we didn't do enough, carbon reduction early in the game and we could see that. And then we're talking about that and it's so cool because it feels like you're talking very concretely about how we will do better at the game next time, You have this tactile model that you can think about.
+
+But we can just as easily be talking about climate policy. Laura, I know that you played that with your family. Did you have that same experience where afterwards, even if you lost, there's this really interesting sort of follow-up flowering?
+
+Laura (42:28)
+there was an immediate desire to replay ⁓ it. It was almost like an addiction. felt like when you were reducing the carbon, when I said I was emotionally gratifying, I wanted to feel that again. I want to go back and reduce the carbon in our planet so easily through using these cards. And so yeah, I played with family and they went and bought the game for themselves. So I absolutely agree.
+
+Scot Free Kennedy (42:45)
+You
+
+Nathaniel Granor (42:53)
+That's another great point you're highlighting there, Laura, too, which is when I first was playing Daybreak, I was very frustrated by how I could work for a turn or two to be able to do a thing. And at the end of the day, all I was doing was removing one emission from my country's stack of like 19 emissions I need to get rid of over the course of the game. And it was just like, my god, all of that for one. But the more I've played, the more I'm like, I got rid of one. Like, that's really great. Like, that's cool.
+
+Matt Leacock (43:17)
+Yeah
+
+Nathaniel Granor (43:19)
+And so like the power, on the one hand, small actions in the sense of I'm going to turn the lights off in my house, like really are not how we're going to solve climate change. But in the scope of the game, like, yeah, if I can reduce my country's, you know, agricultural emissions by one third, that's not the whole problem. We've got a lot more work to do, but that's actually a huge victory. And I think the game gets that scaling actually quite right as well that the, difficulty it's like, wow, that feels small. But the, but as you get to know the game, actually it's meaningful.
+
+Scot Free Kennedy (43:42)
+Mm-hmm.
+
+Yeah, I think we actually suffered from how satisfying that was. My daughter got really into it and got rid of all of her dirty energy really fast and aggressively because she got that first hit. where she saw the numbers go down. We did the emissions phase and We were all very happy.
+
+She wasn't generating enough electricity and she started going into crisis. She got carried away and I was immediately reminded of this is a slight aside, but I think it's game related. So I'll bring it up for those of you from the climate based fellowship. spent some time with this big simulator called En-ROADS.
+
+and it's from MIT and a couple other groups and it's this very detailed simulation of global climate and in particular policy. And it's really neat because you can play with it. there's a whole other discussion about games versus simulation. It's very much a simulation, but it lets you play. And one of the things the lady who introduced it to us did that I found wonderful was just let us go and be like, what should we fix? You know, here's our current, you know, temperature range. And of course everybody's like, we're going to add green energy. We're going to add green energy.
+
+slides that slider up and set some policy and you see our green energy curves. And then she's like, but look, we're not really impacting the temperature. And you could see in that simulation, which is MIT climate scientists years of, model building coming to the exact same lesson that you got to my daughter in that, that turn of the board game. doesn't matter if you add the green energy, if you're not also,
+
+reducing the dirty energy You can't just make energy production go away without replacing it because people need energy and your population is growing. And my daughter got way too much into that, feedback hit of satisfaction and actually crashed her entire country. She was like five behind on energy all of a sudden. Like, what are you doing?
+
+Matt Leacock (45:25)
+Yeah.
+
+That's funny. Yeah, that's one of the things that was really fun is that we could show how you could be very, very powerful in one aspect. ⁓ you could roll out just tons of solar power. You could reduce ⁓ many, many industrial emissions or what have you. Or maybe you're really great at ecology and your ecological resilience is just going through the roof. You can add eight of those tokens on a turn. Well, that's great. You've got that. But that's not going to win the game. You need to do all of these things.
+
+It was really fun from a game design perspective, just giving people the ability to feel really powerful, but also show that, OK, well, that's just one segment. That's not going to solve the entire problem.
+
+Nathaniel Granor (46:11)
+That reminds me of the question we were asking a bit ago about the cooperative versus competitive. In a lot of ⁓ competitive games, you make them more interesting by adding more ways to win. And I feel like in this game, it's almost like we've added more ways to lose. ⁓ is, no, and I don't mean that, I don't mean that in a negative sense, but that, but that in a game, I mean, to go back to the, know, Settlers of Catan, it's like, well, you can, you can win this way, or you can win that way. You can get points this way. You can get points that way. But
+
+it doesn't work in a cooperative game. And so what we end up with is this like, hey, if you're not balancing, if you only try to win that way, if you only try to win this way, you're not going to hit this goal. The goal is very broad. The goal requires a lot of diverse kinds of action. That's why the collaboration is so critical. I think that's true of other collaborative games as well. I now hear my other burning question and I'll kick myself. I don't get a chance to ask it. So I'm gonna ask it now. I've played about five times. I've lost five times. Well,
+
+Matt Leacock (47:05)
+and go.
+
+Nathaniel Granor (47:06)
+One of the times I think we actually were on track to win, but it was late and my parents needed to go to sleep. So we had to stop and it was like, Ooh, I think we actually would have made it. We did a last turn where we just like, you know, burn everything, like just, just like go all in, like, see if we can get there. We were off by like seven cubes. And it's like, yeah, if we had taken a more measured approach over two or three turns, we probably could have, could have brought this home. But so are there distinct gameplay approaches or strategies that you've seen emerge from watching all the play testing and folks doing this?
+
+Like things you could label and say, I've seen people try this approach. I've seen people try that approach and which ones work. ⁓
+
+Matt Leacock (47:41)
+HAHAHAHA
+
+Scot Free Kennedy (47:42)
+Ha
+
+Matt Leacock (47:45)
+⁓ I mean, I think there's certain broad strategies. Maybe there's a toolkit of different approaches that you can take, but really you need to respond to the cards that you get dealt. ⁓ If you're depending on like, wow, I had that one game where I rolled out a massive solar farm, a big solar array, and I had really great, ⁓ I don't know, ⁓ I had this really great stack where I could remove dirty emissions and I brought my
+
+clean energy production way up and my dirty energy production way down really early. yeah, ⁓ if you depend on that, then yeah, sure, that can be very, very helpful, but you may not get the cards for that. You may have this wonderful, you know, solar array card, but you can't find the grid tags and you do everything you can, but you can't draw them out of the deck. You could say that, well, you're being unlucky. And I guess on one hand that's true, but you're also not.
+
+playing the cards that were dealt to you. You might have a whole set of cards that you could have, for example, passed to the majority world who could then decarbonize very, very quickly in some sector. So I think I would just say early action is really good no matter what it is, and then ⁓ really lean into the cards that you're dealt. if you get a lot of cards that aren't necessarily good early in the game, you can always fall back on just
+
+really action is taking out some dirty electricity and rolling out some clean electricity. ⁓ That's always good. It may not be ideal, but you don't want the perfect to be the enemy of good. And too often I think people are like, OK, well, I'm just going to hang on to these three cards because they're so powerful. I'm going to roll them out and turn two. And then turn two comes along and is like, I can't roll them out. And then the temperature skyrockets and so on. So yeah.
+
+Nathaniel Granor (49:34)
+Can
+
+I put on my educator lens for a second? So in our first episode, one of the things I brought up was from my experience in teaching and instruction that transfer is very hard for students and for people. you know, I learned something in the context of math. That doesn't mean I'm going to be able to apply that same idea or same skill in a social studies situation unless a teacher or someone helps me make that connection and helps me walk that. So some of these strategies that you're pointing out, I'm curious whether you're seeing
+
+are folks able to figure this stuff out on their own? ⁓ after they've played a few times, we did, but we're also folks who play a lot of games. And so I think we had a lot of that transfer already kind of that muscle already built. So I'm curious, are you finding that people play daybreak and they notice, early action, that's important. Or they notice we really need to collaborate here. Do you think people are people who are not avid gamers, people who do not have all of this muscle already built about what are general strategies for games? ⁓ are they finding these things?
+
+Matt Leacock (50:07)
+you
+
+That's a great question. I really don't know. We haven't studied this. I do know that there are educators who are using it. And I think it would probably be more powerful if you're using it a classroom environment where you can not. Because the opposite, where you just lecture and explain something, is not going to be terribly useful either. I think some sort of combination where you've got ⁓ the framing and guidance, ⁓ and then you actually go in and experiment and play, the playing is going to help that learning, I think.
+
+Scot Free Kennedy (50:36)
+Yeah.
+
+Matt Leacock (50:59)
+tremendously. I'm speaking as someone who's not an educator, but I do know the importance of play to learning. So I think if it's totally unguided, it's probably not as good as it could be. And if you're not doing any play and you're just doing, you know, just lecture, I'm sure that's not going to be as effective either. But yeah, we haven't sat down with people and said, okay, well, how's this making you think? I can speak for myself and say that, you know, looking and playing with these systems and designing the system has been incredible when it comes to like any
+
+any new story that I read now, I've got a toy-like model of how the carbon cycle works, right? And I can kind of have an understanding of what the impact of a certain battery technology might be, just because I've got a frame now to kind of compare it to. Whereas before it was just a big soup, I had no idea what was going on. So, yeah.
+
+Scot Free Kennedy (51:52)
+You guys both actually did hit on something that I think I'm really interested in that I hadn't thought of before, but it's sort of heading into maybe a little bit nerdier game design question. And I feel like I saw Laura's ears perking up when we were talking about play and learning, because I know those are big topics for her. I wanted to, before I start talking, my nerdy game design questions, I wanted to hush and see if you wanted to jump in on that.
+
+Matt Leacock (51:53)
+you
+
+Laura (52:16)
+⁓ Nothing that I wholeheartedly agree and I am fascinated by the neuroscience behind that. It's like your brain enters when you're playing, your brain enters in more receptive states that's adaptable to ⁓ rewiring it to incoming information. I do not have the specifics on it, but I just think it's incredibly interesting and the emotional state that you're in is hugely important to learning overall, which I think is very much underappreciated in this world these days. ⁓
+
+Scot Free Kennedy (52:42)
+Yeah, I totally agree. We talked, that first episode a lot about play-based learning ⁓ and how important it is, So you just mentioned something that I I hadn't really noticed before. We talked a lot about transfer, but I just realized that we sort of...
+
+Did it backwards? Like I feel like we saw some transfer where because we're spending a bunch of time thinking about climate
+
+Like, games are this great way to get people to learn these climate ideas, but I'm in love with the idea that a game could be good enough that it would go the other direction and you would do better at that game from knowing something about climate.
+
+Matt Leacock (53:06)
+Yeah. ⁓
+
+Scot Free Kennedy (53:18)
+And so just this notion that we transferred some climate ideas positively back into the game got me wondering about game design in general. And if you felt like there were climate ideas that helped inform your game design work, either positively or negatively.
+
+Matt Leacock (53:36)
+I mean, I think it was just a matter of like in doing the research, trying to figure out the different dynamics that we saw in the systems and building like toy like models that we could put into the game. So, I mean, I can enumerate some of the ones. They've been mentioned, some of them, like just how the carbon cycle works. So, you you emit a certain amount, some of it gets absorbed, some of it accumulates over time and that accumulation just keeps racking up and you see how that leads to higher temperatures. So was like a foundational.
+
+⁓ concept that we put into game terms. Talked about early action, how taking a cube off in round one is the same as taking a cube off in round one, two, three, four, five, and six, et cetera, and how powerful that is. Electrification was a really fun thing to model. looking at how you could reduce an emission, but it would increase your electricity demand, which would require kind of backfill with new electricity. ⁓ Positive feedback loops. ⁓
+
+with both on the positive and the negative. I mean, you can think of the game as like two competing positive feedback loops. One is like the temperature getting higher and higher, and that leading to these planetary effects, which make it even hotter. And so you these tipping points where things get worse. And because they're worse, they get even worse, and how that kind of runs away. And on the player's side, you roll out a solution, and then you can build on that. And then it has a multiplying effect. And so you've got like, OK.
+
+which loop is going to outpace the other one. So you've got this competition between the bad problems are getting worse while the good solutions are getting better, which one's going to come out on top. ⁓ Yeah, and I guess how throttling works there, how certain solutions have a cap and you need to work that out, how there's limits, like the importance of infrastructure and grid and battery technology and so on.
+
+And then, yeah, think those are the big ones. ⁓ Resilience is another one, like how an investment early to protect people can pay off ⁓ over again and again and again. it functioning kind of like a shield and protecting you from. But also having, it's no accident they look like shields. Yeah, right, you're buying armor. It's very much in game terms, yeah, you're buying armor.
+
+Scot Free Kennedy (55:48)
+That's literally how I described it to the kids. These are your shields. This is your buying armor. Your buying armor.
+
+Well, one, I'm sorry.
+
+Matt Leacock (55:59)
+I think
+
+Nathaniel Granor (55:59)
+Yeah,
+
+Matt Leacock (56:00)
+that was
+
+Nathaniel Granor (56:00)
+I was-
+
+Matt Leacock (56:00)
+the top of my mind ones that there may be others.
+
+Nathaniel Granor (56:02)
+I was going to throw in
+
+one more I was just thinking of as we were talking, which maybe it wasn't intentional. ⁓ One of the themes that I've gotten from our fellowship, and I also see very much represented the game, is there is no silver bullet to solving climate change. There's no one card or one stack that you can build that's going to fix this. And the more hopeful side, the flip of that, which is there's also no one card that you can't do without.
+
+There's no single card or set of cards in the game that if you don't draw them or you don't use them properly, you're doomed, as far as I can tell, that you're doomed to lose. There are so many solutions and you can invest in them and see what happens, right? But there's no single path. It's so complex, but that's actually a hopeful message too, that because there are so many resources and so many ideas and so many things out there, there are many paths to solving problems and to reducing harm.
+
+Scot Free Kennedy (56:28)
+Right.
+
+Matt Leacock (56:54)
+Yeah, exactly. Right. Right. It's all about like, what are you going to do with a hand that's been dealt to you? ⁓ And yeah, there's winners in every hand, but you need to know sort of like how to deal with it.
+
+Scot Free Kennedy (57:07)
+And be willing to adapt. Yeah, I think that's and I think that's going back to that notion of making the game not, you know, depressing. It is that notion where you realize a we probably could have won if we'd done something differently. Like we had this stuff. We just didn't realize it. And B, we see that now we want to play it again because we see that we could have done this. And if we have these other cards, we could have done that. ⁓ Another theme that I didn't hear mentioned that I found really interesting.
+
+Matt Leacock (57:08)
+Yeah, right, exactly.
+
+Scot Free Kennedy (57:33)
+and I want to tie it into a very specific game mechanic, because I do have to nerd out a little bit on just game mechanics. ⁓ Something we've talked about a lot in the climate world, I think, is the notion of succession and approaches that lead into other approaches We might do something for a while until we are able to get most of the fossil fuels reduced. And then that technology might not make sense anymore.
+
+and we want to switch to something else That I felt like was well captured mechanically. And I want to ask about that because I also just am in love with the game mechanic itself. And that's just the stack machines that you build. I play a lot of games. I don't know if you've played ⁓ like Race for the Galaxy. There's a number of games where you build these little machines. And at first I didn't really get the depth that was present in this. And then when I
+
+did it was just this incredible explosion because I loved that you could, know, not just sort of at first I'm like, okay, you know, I'm going to put, you know, this stack is going to be mostly this kind of token. And then you realize that certain technologies need a mix of tokens in your stack. And so you're sort of tailing it at that. And then when I had the moment where I realized that I also could be thinking not just about what technology, what local project I'm doing now and making it more powerful, but also laying things out so that when I switch away from that, I can bring in another
+
+local project technology, which will take advantage of that existing stack and have this succession where it hits the ground running. So it's already got eight of those tags.
+
+Matt Leacock (59:00)
+Yeah, those actually came relatively late to the game, maybe about two thirds of the way through. And that's what really gave the game life, right? That's when we really knew we were onto something. Because it didn't matter if you were into climate or not, as a gamer, it makes you feel powerful. And I think it's a really fun ⁓ thing to bring into the solution set, too. You can see, like, my god, this is going to be really powerful. And then you can see that now, like with solar, for example, just seeing how incredibly, you know.
+
+Scot Free Kennedy (59:05)
+Wow.
+
+They're fun!
+
+Matt Leacock (59:30)
+fast the prices have dropped and seeing the incredible rollouts in Pakistan and China and so on. Yeah, it's just a fun thing to communicate that like, wow, this is not just a problem. There's these amazing solutions that can happen and we could do that with this tag system. And we kind of just kind of stumbled into it. ⁓ Initially, the cards were rolled out and they were just kind of dead. Like you think of like Terraforming Mars, you buy a card and it just kind of sits on your tableau and it's done.
+
+We wanted these things to actually be active, but we couldn't have every card active, right? You can't have like 20 cards on your tableau and them all having a power, so we came up with this notion of stacking where you could build on the successes of ⁓ your previous solutions and then like as you said, ⁓ they can be really powerful. If you know what you're doing, you can sow the seeds for tomorrow's success and really, really become powerful.
+
+I think that's what hooked a lot of ⁓ gamers, hobby gamers, into the game and it was great to be able to grab them and then also show them how this relates to climate.
+
+Nathaniel Granor (1:00:33)
+A very subtle aspect of the stacking mechanic, again, this is just sort of a nerdy, I'm curious question. In the game, during the crisis phase, if you haven't done your job well, countries may need to discard cards from their tableau. Interestingly, you can discard cards...
+
+Matt Leacock (1:00:39)
+you
+
+Right.
+
+Nathaniel Granor (1:00:52)
+from the front of your tableau, which is the project you're actively working on, or from behind. And I'm pretty sure, unless I'm missing a couple of specific cards, that's basically the only way to remove a project intentionally from your tableau is, whoops, we're in crisis, I have to get rid of something, you know what, I'm gonna take this opportunity to replace my solar stack with whatever's under it. Is that, yeah, was that, is that like a little sneaky advanced strategy? What's going on there?
+
+Matt Leacock (1:01:13)
+Yeah, totally.
+
+100%.
+
+Yeah, I mean, never let a good crisis go to waste, right? We're going to take advantage of this opportunity to roll, know, to pull back and change and shift gears and actually go back to this previous solution that was working well, for example. And yeah, I mean, I think it's a great message there where, right, you can take advantage of a crisis, which I think mirrors the real world. And then from a game design.
+
+Scot Free Kennedy (1:01:24)
+Yes!
+
+Matt Leacock (1:01:39)
+nerding out, we couldn't allow you to just move the things around any way you wanted to and put things in front because the analysis required would make it a six hour game. we had that sort of like constraint, but also we saw this opportunity to give players this. Yeah, it's a silver lining to yeah, these disasters, right?
+
+Nathaniel Granor (1:01:52)
+It's sort of a silver lining, right? It's like, ⁓ okay, my plans, but wait a minute. Yeah.
+
+Scot Free Kennedy (1:01:54)
+No.
+
+I remember you pointing that out, Nathaniel, and at the time I'm like, this is interesting, And then it came up playing with the family. like, well, how do I get rid of cards? And I'm like, well, you can't. Actually, wait a second. Nathaniel pointed out, I wonder if that's on purpose. It is so good to hear you say it. Like, yes, it absolutely is. That's so cool.
+
+Laura (1:02:15)
+One of the things that I thought was fun, you touched on this thought when you're talking about your daughters, is different strategies you can deploy when you're trying to tackle it. Obviously you can try to eliminate as much dirty energy or pile up on clean energy and as you play more you learn the best ways to approach it. And this was a huge part of the replay factor for me is I wanted to attempt different strategies to see what worked and you have to adapt depending on the situation. this is what I find very mentally stimulating and interesting about gaming and climate in general because you take this simulated model of climate change and you try
+
+solve it by trying to find different strategies. am curious to what extent this can be applied to the real world. This is where my interest more in video games and the digital world, because think the modeling can be a lot more accurate in those formats. But I do wonder how much we can learn from this as humans as we're playing the game about how we can approach climate change. I don't know if you thought about that at all.
+
+Matt Leacock (1:03:08)
+For me, ⁓ I just wanted to give people, ⁓ Mateo as well, think we just wanted to give people a frame and a model for how to think about it and how to approach it and to show the severity and scope and give people an excuse to talk about it. We weren't really looking at like, in this particular technology, you know. ⁓ Although you can look at a different technology or policy and learn more about it. So we gave you the ability to kind of educate yourself. And most of those pages have some way to take action.
+
+Laura (1:03:20)
+Thank you.
+
+Thank
+
+Matt Leacock (1:03:38)
+but there you're pretty low in the funnel. ⁓ You're pretty motivated. So it'd be great if more people did that. ⁓ But we're happy enough just having people sit down, have fun, and have a conversation, and have an excuse to start talking about this stuff.
+
+Laura (1:03:56)
+Absolutely.
+
+Nathaniel Granor (1:03:56)
+I know we're
+
+coming out towards the end of our time together. I'm curious, are there any goals you had for the game or climate mechanics, climate understandings that you weren't able to incorporate? Things where it was like, ⁓ we tried, it didn't really work out. If I built a different climate game, maybe we could focus on that. ⁓ Yeah.
+
+Matt Leacock (1:04:13)
+Oh yeah, sure. mean, one's staring us right in the face. It's just that in the real world, people aren't cooperating. On the kind of level that we're modeling in the game, we have this huge conceit that the different world powers are going to cooperate with each other. I you don't have to. We don't enforce it. And you do see that if you don't cooperate, you're not going to do well. But we don't have anything where the players have certain private agendas or...
+
+There's no, aside from the crisis cards where we do have the fossil fuel industry represented in them, we don't have an oppositional player actively working against the players. We have to model that with the cards. So lot of those kind of tensions are really not in the game. I'm sure there's a pretty long list. We had to keep it pretty high level in order to make it actually function.
+
+Nathaniel Granor (1:04:58)
+Yeah, Scott brought up a ⁓
+
+Scott, you had brought up Dead of Winter in one of our earlier conversations as an example of a sort cooperative game where people have other motivations. Sometimes they're actually not your friend at all, and other times they are your friend, but there's this other thing they also need to do to win, and that could sometimes come into conflict. Yeah.
+
+Scot Free Kennedy (1:05:07)
+⁓ yeah.
+
+Matt Leacock (1:05:17)
+Mm-hmm. Right.
+
+Scot Free Kennedy (1:05:19)
+Yeah,
+
+I don't know if you're familiar with that game, I was really surprised how often it kept coming up. as an interesting, really cool game design example. And that was one of them. It's very cooperative. You have to all work together. It's a difficult, challenging game, but you can also win a little bit more than your buddies by this one angle. And I noticed that you didn't have that in here. There's no sense where like, sure, we all win, but also America.
+
+Matt Leacock (1:05:29)
+Mm-hmm.
+
+Scot Free Kennedy (1:05:42)
+You know one because it you know did this one thing or whatever and it sounds like that was probably intentional.
+
+Matt Leacock (1:05:45)
+Yeah.
+
+It was intentional from the start. It really changes the emotional tenor and the just the yeah, the way the vibe is at the table. ⁓ it was. No, I mean, basically you're jumping genres at that point, the game becomes all about that, right? So all you're talking about is the trader. You're talking about the secret agenda. You're not talking about, you know, climate anymore or, you know, it just it just kind of like really takes you off the path. So ⁓ very, very early.
+
+Scot Free Kennedy (1:05:55)
+No, no trainer mechanic. That would be really weird. That would be awful.
+
+Yeah, yeah.
+
+Matt Leacock (1:06:14)
+conversations, we eliminated that.
+
+Scot Free Kennedy (1:06:16)
+Yeah,
+
+no, they're good choices. And I think they're such almost defaults now for co-op games. there's sort these assumptions like you're going to have a trader. ⁓ And I think it's really interesting and nice to not, especially because, again, that would just be so weird in a climate game. We are sorry.
+
+Matt Leacock (1:06:30)
+Yeah, we really didn't
+
+want to teach tragedy to the commons again and again. There's a lot of games out there that do that. Yeah, that's an important lesson, but we didn't think that would be an effective way to affect change.
+
+Scot Free Kennedy (1:06:37)
+Yeah. Yeah.
+
+and that's another hobby
+
+horse of mine. It turns out that's a terrible metaphor because it didn't actually happen. Like the tragedy of the commons is actually just basically a historical equivalent of greenwashing to blame the poor people for rich people taking their stuff away. Like those guys have been farming that land for 2,000 years. It's not like suddenly they decided to over farm it. It doesn't actually make sense. So yeah, thanks for bringing that up.
+
+Matt Leacock (1:07:04)
+Yeah.
+
+Scot Free Kennedy (1:07:13)
+I wanted to sort of actually bring it back almost to the beginning with Nathaniel's original question. balancing the veracity of the real world of climate science with a game that works well.
+
+I'm curious if there were any places where you felt a tension there, where, ⁓ know, climate science, the current research suggests this should work this way, but we actually really feel like that gets in the way of the game being fun or successful or easy to play or whatever that is.
+
+Matt Leacock (1:07:39)
+Yeah, most of that was resolved as we were designing the cars and we're working with our ⁓ advisors. ⁓ like the most controversial ones were the geoengineering cards. Yeah, we got a little pushback from some German folks about, you know, how we position nuclear as a ⁓ clean energy solution, those sorts of things. ⁓ But nothing really overwhelming. Initially, we were
+
+we were a little concerned about the way the modeling of the carbon work, whether it was a delay before the temperature affected. And it out it was reasonable the way we were portraying it. So most of it was really about oppositional forces. And so we actually talked to Bill McKibben a bit about this. We got half an hour of his time. And we're trying to talk about the framing and just making sure we're getting the framing right. And his advice was really to make sure that we show the opposition correctly. And in his mind was about ⁓
+
+inertia and the fossil fuel industry. And so we knew we had inertia covered pretty well. And so we actually did some more rounds of development, trying to get ⁓ the crisis cards to actually talk about things like ⁓ erosion of democracy and greenwashing and misinformation and all the different kinds of things that those industries were doing. don't, so I'm not sure that's as robust as it could be. ⁓ But I'm, yeah, I'm having a hard time thinking of things that where we really couldn't ⁓
+
+put them in aside from like different oppositional forces and, you know, like hidden agendas and that sort of thing. Like it is a pure cooperative game. I think if you can accept that, then you can play it and have a pretty reasonable time with the way it's modeling things.
+
+Scot Free Kennedy (1:09:21)
+Well that was my last question I think Matt if there's anything you'd like to bring up or ask us. I'd love to wrap up with that.
+
+Matt Leacock (1:09:32)
+I'm curious about what your future topics will be, honestly. If you look at game design and games and how it intersects with the climate. So I'll have to keep tuning in.
+
+Scot Free Kennedy (1:09:43)
+we've talked about ⁓ tweaking existing games and whether you could take an existing game like Catan or something ⁓ that you could then use to explore system dynamics in interesting ways.
+
+And that'd be sort of fun.
+
+Nathaniel Granor (1:09:58)
+Yeah, think it's also just we're working, you we're thinking about these concepts and as people who play games, like what comes across our awareness and might become interesting. There was one, there's people putting out climate themed games all the time now, which is great to see. So I think, you know, looking at those and seeing if there's new and interesting elements to them worth discussing. I'm also just so fascinated by systems theory. And so, you know, I've been racking my head to try to identify games that I think capture, just abstractly capture really interesting elements of systems theory. That's part of my thesis is like,
+
+I just think a lot of people haven't spent a lot of time thinking about what a system is, you the bathtub model and all of that, which you capture so elegantly with the carbon cycle in the game. ⁓ And that early action and all of those system dynamics. you know, I would love to see that. Yeah, I don't know. think it's just going to... We'll see what direction it takes. I don't know if we have a clear path fully charted out just yet.
+
+Matt Leacock (1:10:32)
+Right, right.
+
+Nathaniel Granor (1:10:52)
+⁓ yeah, I guess I had one sort of very wrap up the question, which was just to see like, what, what do you want to see other people make in this space? this space being, you know, climate and, and collaboration and ways, you you, you've made an incredible contribution to the collaborative gaming space. Where are you hoping someone else comes along and does, what would you like to see?
+
+Matt Leacock (1:11:16)
+I guess at a high level, I'm just excited about ⁓ seeing new voices, new people stepping into game design and modeling, like I said, new systems, new things. ⁓ I think historically so many games have been oppositional and competitive because we didn't have the technology to create good cooperative games. ⁓ So in lieu of a good cooperative game system, you have an opponent, right, who has a brain and can do all that for you. So you can...
+
+You can make a competitive game, a bad competitive game pretty quickly by just putting two people, you know, opposing each other and having a very simple system. But the reality of it is like we're a very social species and we cooperate so much more than we compete. You know, many people tell you otherwise, but we are in this incredible society that is all working together and solving all these problems.
+
+Scot Free Kennedy (1:11:53)
+I feel like he just describes human history.
+
+Matt Leacock (1:12:14)
+if you frame game design as ⁓ problem solving approach playfully, there's a huge amount of ⁓ problems that can be modeled in games and ⁓ where people work together. So I'm hoping that more people will step into game design roles and start modeling some of these things and get more people playing and learning and working together as opposed to basically just beating each other up in competitive.
+
+feudal Europe, right? We're just kind of overseeing over again any of the Euro games that are out. So yeah, think we're going to see a lot of innovation in the future. I'm just looking forward to seeing what other people cook up.
+
+Scot Free Kennedy (1:12:58)
+I cannot imagine a more beautiful end to this conversation
+
+Thank you so much everybody for joining. This has been an absolute delight. and my brain is simmering with new ideas and growth to old ideas. So thank you so much. This was really fun.
+
+Matt Leacock (1:13:14)
+Yeah, thanks for having me.
+
+Nathaniel Granor (1:13:15)
+Thanks Matt. Thanks
+
+Laura (1:13:15)
+Thank you.
+
+Nathaniel Granor (1:13:16)
+Laura. Thanks Scott.
+
+Matt Leacock (1:13:19)
+All right.
+
