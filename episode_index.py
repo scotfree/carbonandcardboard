@@ -16,6 +16,13 @@ from pathlib import Path
 
 # Shared CSS styles for episode tables and buttons
 TABLE_STYLES = '''
+        .brand-badge {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 160px;
+            height: auto;
+        }
         .episode-table {
             width: 100%;
             border-collapse: collapse;
@@ -38,6 +45,13 @@ TABLE_STYLES = '''
         .episode-name {
             color: #e0e0e0;
             font-weight: 500;
+        }
+        .episode-num {
+            color: #64ffda;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-align: center;
+            width: 50px;
         }
         .episode-summary {
             color: #a0a0a0;
@@ -120,8 +134,9 @@ def generate_episode_table(episodes, transcript_prefix=''):
         
         rows.extend([
             '                <tr>',
+            f'                    <td class="episode-num">{ep_num}</td>',
             '                    <td>',
-            f'                        <div class="episode-name">Episode {ep_num}: {title}</div>',
+            f'                        <div class="episode-name">{title}</div>',
             f'                        <div class="episode-summary">{summary}</div>',
             '                    </td>',
             '                    <td>',
@@ -136,6 +151,7 @@ def generate_episode_table(episodes, transcript_prefix=''):
         '        <table class="episode-table">',
         '            <thead>',
         '                <tr>',
+        '                    <th>#</th>',
         '                    <th>Episode</th>',
         '                    <th>Links</th>',
         '                </tr>',
@@ -160,6 +176,7 @@ def generate_episodes_index(episodes, output_path, css_file='transcript_styles.c
     </style>
 </head>
 <body>
+    <img src="../brand_badge.png" alt="Carbon and Cardboard" class="brand-badge">
     <div class="transcript-container">
         <h1>Carbon and Cardboard - Episode List</h1>
 {generate_episode_table(episodes)}
@@ -184,28 +201,29 @@ def generate_home_page(episodes, output_path, css_file='episodes/transcript_styl
     </style>
 </head>
 <body>
+    <img src="brand_badge.png" alt="Carbon and Cardboard" class="brand-badge">
     <div class="transcript-container">
         <h1>Carbon and Cardboard</h1>
         
         <p class="description">
-            A podcast exploring how board games can help us understand and talk about climate change.
-            We discuss game mechanics, educational design, and the ways that play can make complex
-            environmental concepts more accessible and engaging.
+            A podcast exploring board games as a way to talk about environment and the climate.
+            We discuss game mechanics, educational design, and the ways that play can help engage with these complex topics.
+            We use many games as lenses into this rich space.
         </p>
         
         <div class="link-bar">
-            <a href="https://open.spotify.com/show/placeholder" class="link-btn link-spotify" target="_blank">
+            <a href="https://open.spotify.com/show/2ypWbMcbH9GtGvrRLgxN0X?si=311b368b0c0d43d9" class="link-btn link-spotify" target="_blank">
                 Spotify
             </a>
-            <a href="https://www.youtube.com/@placeholder" class="link-btn link-youtube" target="_blank">
+            <a href="https://www.youtube.com/@CarbonAndCardboard" class="link-btn link-youtube" target="_blank">
                 YouTube
             </a>
-            <a href="https://github.com/placeholder/carbonandcardboard" class="link-btn link-transcript" target="_blank">
+            <a href="https://github.com/scotfree/carbonandcardboard.com/" class="link-btn link-transcript" target="_blank">
                 GitHub
             </a>
         </div>
         
-        <h2>Episodes</h2>
+        <h2><a href="episodes/index.html">Episodes</a></h2>
 {generate_episode_table(episodes, transcript_prefix='episodes/')}
     </div>
 </body>
