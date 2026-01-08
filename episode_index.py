@@ -114,6 +114,57 @@ TABLE_STYLES = '''
             margin: 20px 0;
             text-align: center;
         }
+        .contributors {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+        .contributor-box {
+            width: 170px;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .contributor-box img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        .contributor-box .name {
+            font-weight: bold;
+            font-size: 1em;
+            margin-bottom: 8px;
+        }
+        .contributor-box .bio {
+            font-size: 0.85em;
+            line-height: 1.4;
+            margin-bottom: 10px;
+        }
+        .contributor-box .links {
+            font-size: 0.8em;
+        }
+        .contributor-box .links a {
+            margin: 0 5px;
+        }
+        .contributor-1 { background-color: rgba(255, 165, 0, 0.15); }
+        .contributor-1 .name { color: #ffa500; }
+        .contributor-1 .bio { color: #cc8400; }
+        .contributor-2 { background-color: rgba(0, 255, 136, 0.15); }
+        .contributor-2 .name { color: #00ff88; }
+        .contributor-2 .bio { color: #00cc6e; }
+        .contributor-3 { background-color: rgba(187, 134, 252, 0.15); }
+        .contributor-3 .name { color: #bb86fc; }
+        .contributor-3 .bio { color: #9568d1; }
+        .contributor-4 { background-color: rgba(255, 105, 180, 0.15); }
+        .contributor-4 .name { color: #ff69b4; }
+        .contributor-4 .bio { color: #cc5490; }
+        .contributor-5 { background-color: rgba(0, 212, 255, 0.15); }
+        .contributor-5 .name { color: #00d4ff; }
+        .contributor-5 .bio { color: #00a8cc; }
 '''
 
 
@@ -228,6 +279,55 @@ def generate_home_page(episodes, output_path, css_file='episodes/transcript_styl
         
         <h2><a href="episodes/index.html">Episodes</a></h2>
 {generate_episode_table(episodes, transcript_prefix='episodes/')}
+        
+        <h2>Contributors</h2>
+        <div class="contributors">
+            <div class="contributor-box contributor-1">
+                <img src="contributors/scot.jpg" alt="Scot Free Kennedy">
+                <div class="name">Scot Free Kennedy</div>
+                <div class="bio">Placeholder bio for Scot. A few sentences about background, interests, and role in the podcast.</div>
+                <div class="links">
+                    <a href="mailto:scot@example.com">Email</a>
+                    <a href="https://twitter.com/placeholder">Twitter</a>
+                </div>
+            </div>
+            <div class="contributor-box contributor-2">
+                <img src="contributors/joshua.jpg" alt="Joshua">
+                <div class="name">Joshua</div>
+                <div class="bio">Placeholder bio for Joshua. A few sentences about background, interests, and role in the podcast.</div>
+                <div class="links">
+                    <a href="mailto:joshua@example.com">Email</a>
+                    <a href="https://twitter.com/placeholder">Twitter</a>
+                </div>
+            </div>
+            <div class="contributor-box contributor-3">
+                <img src="contributors/audrey.jpg" alt="Audrey Woodward">
+                <div class="name">Audrey Woodward</div>
+                <div class="bio">Placeholder bio for Audrey. A few sentences about background, interests, and role in the podcast.</div>
+                <div class="links">
+                    <a href="mailto:audrey@example.com">Email</a>
+                    <a href="https://twitter.com/placeholder">Twitter</a>
+                </div>
+            </div>
+            <div class="contributor-box contributor-4">
+                <img src="contributors/laura.jpg" alt="Laura">
+                <div class="name">Laura</div>
+                <div class="bio">Placeholder bio for Laura. A few sentences about background, interests, and role in the podcast.</div>
+                <div class="links">
+                    <a href="mailto:laura@example.com">Email</a>
+                    <a href="https://twitter.com/placeholder">Twitter</a>
+                </div>
+            </div>
+            <div class="contributor-box contributor-5">
+                <img src="contributors/nathaniel.jpg" alt="Nathaniel Granor">
+                <div class="name">Nathaniel Granor</div>
+                <div class="bio">Placeholder bio for Nathaniel. A few sentences about background, interests, and role in the podcast.</div>
+                <div class="links">
+                    <a href="mailto:nathaniel@example.com">Email</a>
+                    <a href="https://twitter.com/placeholder">Twitter</a>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>'''
